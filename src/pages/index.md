@@ -40,7 +40,7 @@ sections:
   section_id: cta
   title: How do we do this?
   actions:
-  - label: Donate Today
+  - label: Learn More
     url: "/contact"
     is_primary: false
     is_scrolly: false
