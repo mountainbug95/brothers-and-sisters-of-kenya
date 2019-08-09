@@ -23,7 +23,7 @@ sections:
   - title: Development
     icon:
       enabled: true
-      icon: fas fa-hammer
+      icon: fa-hammer
       style: style3
     description: Providing people with the resources they need to further develop
       their communities.
