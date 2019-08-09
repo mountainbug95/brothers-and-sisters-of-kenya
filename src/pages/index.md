@@ -44,11 +44,18 @@ sections:
     url: "/contact"
     is_primary: false
     is_scrolly: false
-  text: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus. Phasellus
-    lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum sed tempus
-    sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero orci, consectetur
-    in odio maximus felis. Lorem ipsum ullamcorper laoreet, lectus arcu pulvinar lorem
-    ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet consectetur.
+  text: "## We at Brothers and Sisters in Kenya are a Christian network passionate
+    about sharing opportunities with the poor in Kenya. We do this through giving
+    zero interest loans to a small village near Elburgon, Kenya.  The village called
+    Kiptet Farm is located in Central West Kenya 130 miles north west of Nairobi.
+    In 2007 a young 18 year old teenager made it to America running cross country.
+    Ben never forgot his friends and family back home and vowed to send aid back even
+    though he did not even have enough to pay for college. His story inspired others
+    to pitch in and we are now in the building phase of giving orphaned teenagers,
+    the working poor, and jobless people an opportunity to use their gifts and talents
+    to have meaningful work.  The loans allow credit to those whom traditional banks
+    would never give to. While we are currently merely a network of caring people,
+    our plan is to become an NGO."
   component: Cta
 - type: posts
   template: posts
