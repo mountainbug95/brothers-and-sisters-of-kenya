@@ -38,9 +38,9 @@ sections:
 - type: cta
   template: cta
   section_id: cta
-  title: Ultrices ante sagittis nunc senectus libero netus
+  title: How do we do this?
   actions:
-  - label: How it works
+  - label: Donate Today
     url: "/contact"
     is_primary: false
     is_scrolly: false
