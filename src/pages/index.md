@@ -30,7 +30,7 @@ sections:
   - title: Growth
     icon:
       enabled: true
-      icon: fas fa-smile
+      icon: fa-smile
       style: style3
     description: Allowing people to expand upon their skills so that they may make
       their community a better place.
