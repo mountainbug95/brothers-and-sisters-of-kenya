@@ -20,11 +20,11 @@ sections:
       icon: fas fa-carrot
       style: style3
     description: Helping kenyan families provide for their families.
-  - title: Phasellus libero eu sed augue gravida
+  - title: Development
     icon:
       enabled: true
-      icon: fa-pie-chart
-      style: style2
+      icon: fas fa-hammer
+      style: style3
     description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
       Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
       sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero
