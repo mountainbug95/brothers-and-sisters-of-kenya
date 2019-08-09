@@ -44,7 +44,7 @@ sections:
     url: "/contact"
     is_primary: false
     is_scrolly: false
-  text: "## We at Brothers and Sisters in Kenya are a Christian network passionate
+  text: "###### We at Brothers and Sisters in Kenya are a Christian network passionate
     about sharing opportunities with the poor in Kenya. We do this through giving
     zero interest loans to a small village near Elburgon, Kenya.  The village called
     Kiptet Farm is located in Central West Kenya 130 miles north west of Nairobi.
