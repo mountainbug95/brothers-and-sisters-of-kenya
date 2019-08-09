@@ -25,19 +25,15 @@ sections:
       enabled: true
       icon: fas fa-hammer
       style: style3
-    description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-      Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero
-      orci, consectetur in odio maximus felis.
-  - title: Lacus ultricies sagittis mi dui dapibus
+    description: Providing people with the resources they need to further develop
+      their communities.
+  - title: Growth
     icon:
       enabled: true
-      icon: fa-cube
+      icon: fas fa-smile
       style: style3
-    description: Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-      Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi libero
-      orci, consectetur in odio maximus felis.
+    description: Allowing people to expand upon their skills so that they may make
+      their community a better place.
   component: Features
 - type: cta
   template: cta
