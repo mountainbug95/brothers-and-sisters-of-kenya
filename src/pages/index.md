@@ -2,7 +2,7 @@
 title: home
 banner:
   title: Brothers and Sisters in Kenya
-  subtitle: Sed magna in pharetra ultricies dolor sit consequat magna.
+  subtitle: Improving communities and lives for people in Kenya!
   actions:
   - label: Learn More
     url: "/no-sidebar"
