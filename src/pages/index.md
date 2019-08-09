@@ -2,7 +2,7 @@
 title: home
 banner:
   title: Brothers and Sisters in Kenya
-  subtitle: Improving communities and lives for people in Kenya!
+  subtitle: Improving communities and lives for people in Kenya
   actions:
   - label: Learn More
     url: "/no-sidebar"
