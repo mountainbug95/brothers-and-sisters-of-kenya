@@ -13,7 +13,7 @@ sidebar:
   side: left
 date: 2017-04-06
 show_in_home_posts: true
-show_in_sidebar: false
+show_in_sidebar: true
 template: page
 
 ---
