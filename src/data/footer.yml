@@ -16,7 +16,7 @@ contact_methods:
     template: contact_with_text
     title: Address
     icon: fa-map-marker
-    text: "Untitled Corp  \n1234 Fictional Road  \nSuite 5432  \nNashville, TN 00000"
+    text: "Brothers and Sisters in Kenya  \n478 Oak Forest PL  \nKingsport, TN 37664"
   methods_col2:
   - type: contact_with_text
     template: contact_with_text
