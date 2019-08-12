@@ -2,7 +2,7 @@
 title: Donate
 subtitle: Give to our cause.
 content_img:
-  enabled: true
+  enabled: false
   path: images/pic10.jpg
   url: "#"
 sidebar:
