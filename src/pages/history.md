@@ -2,7 +2,7 @@
 content_img:
   url: "#"
   enabled: false
-  path: ''
+  path: "/images/pic_13.jpg"
 sidebar:
   side: left
   enabled: false
