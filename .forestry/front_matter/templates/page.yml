@@ -63,6 +63,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/history.md
 - src/pages/left-sidebar.md
 - src/pages/terms.md
 - src/pages/privacy.md
