@@ -1,16 +1,16 @@
 ---
-title: Left Sidebar
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+title: Our Operation
+subtitle: How we are helping the people of Kenya to better their lives.
 content_img:
   enabled: true
-  path: images/pic07.jpg
-  url: '#'
+  path: "/images/pic_17.jpg"
+  url: "#"
 sidebar:
   enabled: true
   side: left
 template: page
----
 
+---
 ### Dolore Amet Consequat
 
 Aliquam massa urna, imperdiet sit amet mi non, bibendum euismod est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam quam, mollis at magna consectetur non, malesuada quis augue. Morbi tincidunt pretium interdum est. Curabitur mi justo, tincidunt vel eros ullamcorper, porta cursus justo. Cras vel neque eros. Vestibulum diam.
