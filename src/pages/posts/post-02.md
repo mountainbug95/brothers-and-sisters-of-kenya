@@ -15,7 +15,7 @@ date: 2017-04-02
 show_in_home_posts: false
 show_in_sidebar: true
 template: page
-alt_img: ''
+alt_img: "/images/pic_08.jpg"
 
 ---
 ### Dolore Amet Consequat
