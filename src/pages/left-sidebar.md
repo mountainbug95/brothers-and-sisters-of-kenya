@@ -1,5 +1,5 @@
 ---
-title: Our Operation
+title: Operation
 subtitle: How we are helping the people of Kenya to better their lives.
 content_img:
   enabled: true
